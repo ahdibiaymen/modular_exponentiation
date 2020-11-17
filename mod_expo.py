@@ -1,5 +1,4 @@
 def expo_mod(num,e,n):
-
     #turning the exponent 'e' into binary
     l=[] #a list to store the even numbers that compose the exponent 
     q=e//2
