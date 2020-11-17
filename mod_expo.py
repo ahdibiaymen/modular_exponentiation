@@ -49,4 +49,7 @@ def expo_mod(num,e,n):
 
 if __name__ == "__main__":
     final=expo_mod(100,233,437)#change the values to your desired values
+    #the first value is the number
+    #the 2nd is the power
+    #the 3rd is the modular
     print(f"the final result is *{final}*")
